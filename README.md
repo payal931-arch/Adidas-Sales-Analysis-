@@ -46,6 +46,6 @@ To use this Power BI dashboard effectively, follow these steps:
 
 **OUTPUT:**
 
-https://github.com/payal931-arch/Adidas-Sales-Analysis-/blob/401dc399d558fc4bc4db4c755e5954701631c0ba/adidas%20dashboard.png
+
 
 
