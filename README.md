@@ -1,9 +1,9 @@
-**Overview**
+# Overview
 
 This Power BI dashboard provides a comprehensive analysis of Adidas sales data, allowing stakeholders to gain insights into sales performance, trends, and patterns. By visualizing key metrics and leveraging interactive features, this dashboard facilitates data-driven decision-making for optimizing sales strategies and maximizing revenue.
 
 
-**Features**
+## Features
 
 1. Sales Performance Overview: Provides a high-level summary of sales metrics including total revenue, units sold, and average selling price.
 
@@ -21,7 +21,7 @@ This Power BI dashboard provides a comprehensive analysis of Adidas sales data, 
 
 8. Forecasting: Utilizes predictive analytics to forecast future sales based on historical data and trends, assisting in planning and resource allocation.
 
-**Getting Started**
+## Getting Started
 
 To use this Power BI dashboard effectively, follow these steps:
 
@@ -39,12 +39,12 @@ To use this Power BI dashboard effectively, follow these steps:
 
 7. Share and Collaborate: Share the dashboard with relevant stakeholders and collaborate on insights and action plans based on the analysis.
 
-**Requirements**
+## Requirements
 
 # Power BI Desktop (latest version recommended)
 # Sales data in a compatible format (Excel, CSV, SQL, etc.)
 
-**OUTPUT:**
+## OUTPUT:
 
 
 ![image alt](https://github.com/payal931-arch/Adidas-Sales-Analysis-/blob/b7787d2680dc446e45cf696dcd28f741d2ffdc0b/adidas%20dashboard.png)
